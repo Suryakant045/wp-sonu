@@ -78,6 +78,8 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+define('WP_HOME', 'http://wp-sonu.herokuapp.com');
+define('WP_SITEURL', 'http://wp-sonu.herokuapp.com');
 
 /* That's all, stop editing! Happy blogging. */
 
